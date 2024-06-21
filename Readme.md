@@ -2,10 +2,10 @@
 
 This is a simple RESTful API for managing tasks, built with Node.js, Express, and Mongoose. It allows users to perform CRUD (Create, Read, Update, Delete) operations on a MongoDB database.
 
-To Run:
+#Running Instructions
 - npm install
-- create a .env file with your own MONGO_URI connection string
--npm start
+- create your own .env file with MONGO_URI connection string
+- npm run
 
 ## Features
 
